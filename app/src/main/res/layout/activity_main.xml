@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.guohaiyang.materialdesignprogressviewlib.MaterialDesignProgressView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:circle_beigin_degree="90"
+        app:circle_color="@android:color/holo_blue_dark"
+        app:circle_line_width="5dp"
+        app:circle_radius="10dp"
+        app:circle_running="true"
+        app:circle_speed="medium" />
+</LinearLayout>
