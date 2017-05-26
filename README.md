@@ -20,7 +20,9 @@
 	}
  ```
  - Step 2. Add the dependency
+ ```
 	dependencies {
 	        compile 'com.github.guohaiyang1992:MaterialDesignProgressView:1.0'
 	}
 
+```
